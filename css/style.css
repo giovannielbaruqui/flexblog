@@ -86,3 +86,20 @@ img {
     display: block;
     padding: 10px;
 }
+
+.menu-nav a:hover {
+    color: #122ab2;
+}
+
+
+/* Introdução */
+
+.introducao {
+    font-size: 3em;
+    line-height: 1;
+    max-width: 960px;
+    margin: 60px auto;
+    padding: 0 10px;
+}
+
+/* Sobre */
